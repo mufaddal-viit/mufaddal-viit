@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mufaddal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India skilled in React, Tailwind CSS. I specialize in building modern, scalable web applications with clean and attractive UI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufaddal-viit&label=Profile%20views&color=0e75b6&style=flat" alt="mufaddal-viit" /> </p>
 
