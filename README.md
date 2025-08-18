@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mufaddal</h1>
-<h3 align="center">A passionate frontend developer from India skilled in React, Tailwind CSS. I specialize in building modern, scalable web applications with clean and attractive UI.</h3>
+<h3 align="center">A passionate frontend developer, skilled in React js, Node js, Express js, Tailwind CSS, Java Spring boot and AWS. I specialize in building modern, scalable web applications with clean and attractive UI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufaddal-viit&label=Profile%20views&color=0e75b6&style=flat" alt="mufaddal-viit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufaddal-viit" alt="mufaddal-viit" /></a> </p>
 
-- 🔭 I’m currently working on **Car Rental Management**
+- 🔭 I’m currently working on **Car Rental Management System**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **calcutta53.mufaddal@gmail.com**
 
