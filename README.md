@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mufaddal</h1>
-<h3 align="center">A passionate frontend developer, skilled in React js, Node js, Express js, Tailwind CSS, Java Spring boot and AWS. I specialize in building modern, scalable web applications with clean and attractive UI.</h3>
+<h3 align="center">A passionate frontend developer, skilled in React js, Node js, Express js, Tailwind CSS, python Java Spring boot, AWS and Docker. I specialize in building modern, scalable web applications with clean and attractive UI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufaddal-viit&label=Profile%20views&color=0e75b6&style=flat" alt="mufaddal-viit" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Javascript** **React** **Node js**
 
 - 📫 How to reach me **calcutta53.mufaddal@gmail.com**
 
