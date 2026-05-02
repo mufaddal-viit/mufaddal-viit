@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mufaddal%20Sakarwala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Automation%20Developer&descAlignY=55&descSize=18" width="100%" />
-
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+web+applications+%F0%9F%A4%96;Next.js+%7C+React+%7C+TypeScript+%7C+Python;Automation+%7C+Claude+AI+%7C+LLM+Integrations;AWS+Certified+Developer+%E2%98%81%EF%B8%8F;Turning+ideas+into+elegant+products+%F0%9F%9A%80" alt="Typing SVG" />
