@@ -19,6 +19,7 @@
 ---
 
 ## 👨‍💻 About Me
+**Mufaddal Calcuttawala**
 
 I'm a **Full-Stack Engineer with AI Developer** based in **Dubai, UAE 🇦🇪** with 4+ years of experience building modern web applications and intelligent AI systems.
 
